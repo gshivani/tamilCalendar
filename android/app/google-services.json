@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325380796763",
+    "firebase_url": "https://tamilCalendar-d0206.firebaseio.com",
+    "project_id": "tamilCalendar-d0206",
+    "storage_bucket": "tamilCalendar-d0206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325380796763:android:b6ad1a114e6d8d7e5f2a7e",
+        "android_client_info": {
+          "package_name": "com.tamilCalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325380796763-7af0pmvfkonlor1l8v57cr9ud8h8qhup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0sDhMNwtcDWRIpPRa7rcm8k2T9zH5OXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325380796763-7af0pmvfkonlor1l8v57cr9ud8h8qhup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
