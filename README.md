@@ -4,4 +4,4 @@ A Flutter app to quickly lookup tamizh panchangam for everyday!
 
 ## App Demo
 
-![](tamilCalendarDemo.gif)
+<img src="/tamilCalendarDemo.gif" width="200px">
